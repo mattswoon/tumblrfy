@@ -1,0 +1,7 @@
+the number six is a small number
+the number six thousand and eighty three is bigger
+
+the number 1,179 has a comma
+the number 1 789 378 uses spaces
+
+this line has both the number eighty four and 3
